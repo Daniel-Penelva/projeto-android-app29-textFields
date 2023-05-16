@@ -11,7 +11,10 @@
     <style name="RaisedButton" parent="Widget.AppCompat.Button.Colored">
         <item name="backgroundTint">@color/colorPrimaryDark</item>
         <item name="android:textColor">@color/colorAccent</item>
+    </style>
 
+    <style name="FlatButton" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/colorAccent</item>
     </style>
 
 </resources>
